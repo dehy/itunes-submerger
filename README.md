@@ -4,9 +4,12 @@
 
 TV Show subtitles, now in your iTunes, iPad, iPhone and iPod touch. 2 clicks, 5 seconds. Enjoy.
 
+You can sync your iPad or any other iDevice. Then you will be able to select the subtitle in the player.
+
 ## Prerequisites
 
-I assume your TV Shows are in mp4 or m4v file format (non-jailbroken iDevices compatible file formats)
+* TV show files should be in .m4v or .mp4 format.
+* Metadatas have to be filled ("Show", "Season Number" and "Episode Number" in the "Video" tab of track informations)
 
 ## Howto
 
@@ -21,7 +24,14 @@ I assume your TV Shows are in mp4 or m4v file format (non-jailbroken iDevices co
 1. Select the TV Shows episodes you want to purge
 2. Click the script menu and select "Remove subtitles of selected tracks"
 
-## Known bugs
+## Known bugs & limitations
 
-* When removing subtitles, if the episode has no subtitles, the script exists with an error
-* The last subtitle referenced on Betaseries.com is automatically selected as "best subtitle" available. It is purely arbitrary (even true for 720p releases)
+* You can actually only merge one subtitle, French or Enligh.
+* The downloaded subtitle is the last subtitle registred in betaseries.com. It's not always the best.
+* When adding a subtitle to an episode playing, paused or even stopped, you need to open another media file and then reopen your episode in order to iTunes to "see" the subtitle.
+* If the show name is not exactly the same as in betaseries.com, the script crash.
+* There is no progress indicator.
+
+## Credits
+
+Huge thanks to Maxime Valette for its work on Betaseries.com
