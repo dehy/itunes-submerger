@@ -31,6 +31,13 @@ http://itunes.flyingpingu.com.com
 * If the show name is not exactly the same as in betaseries.com, the script crash.
 * There is no progress indicator.
 
+## TODO
+
+* If metadatas have not been filled, look at the filename
+* Update metadatas though betaseries infos if metadatas have not been filed
+* Look at the filename for the "720p" keyword or look at the video stream properties to autoselect correct sub
+* Loop in subtitles zip files if matching sub has not been found in previous zip file.
+
 ## Credits
 
 iTunes SubMerger uses SublerCLI from the [Subler project](http://code.google.com/p/subler/)  
