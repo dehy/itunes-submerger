@@ -1,5 +1,5 @@
 # iTunes SubMerger
-http://itunes.arnauddemouhy.com
+http://itunes.flyingpingu.com.com
 
 ## Overview
 
