@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.ScriptEditor.id.A29EFF63-3866-43AA-ADBB-17E66C876375</string>
 	<key>SEDebugTellApplication</key>
 	<string>file://localhost/Applications/iTunes.app/</string>
 	<key>WindowState</key>
@@ -15,7 +17,7 @@
 		<key>positionOfDivider</key>
 		<real>490</real>
 		<key>savedFrame</key>
-		<string>76 166 884 841 0 0 1920 1058 </string>
+		<string>76 152 884 841 0 0 1920 1058 </string>
 		<key>selectedTabView</key>
 		<string>event log</string>
 	</dict>
